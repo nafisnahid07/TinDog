@@ -1,2 +1,1 @@
-# TinDog
-A Tinder for your cheems
+TinDog Starting Files
